@@ -1,0 +1,12 @@
+.bienvenida{
+    color: #FFF;
+    background-color: navy;
+    padding: 40px;
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

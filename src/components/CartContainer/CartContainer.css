@@ -1,0 +1,64 @@
+.imgCartCard{
+    height: 100px;
+    width: 100px;
+}
+
+.divPrecioTotal{
+    padding: 20px;
+    margin: 100px;
+    border: 1px solid #0D6FFD;
+    text-align: center;
+    background-color: #0D6EFD;
+    border-radius: 40px;
+}
+
+
+
+
+.divCartContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.regresar{
+    align-self: center;
+
+}
+
+.carritoVacio{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 62vh;
+}
+
+.carritoVacio h2{
+    font-size:50px;
+    padding: 70px;
+}
+
+.carritoVacio button{
+    font-size:22px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.container a{
+    align-self: center;
+}
+
+.buttons{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center;
+}
+
+.buttons Button, .buttons a Button {
+    width: 175px;
+}

@@ -1,0 +1,14 @@
+p.pContador{
+    padding: 25px;
+    font-size: 1.5rem;
+}
+
+div.itemCountControls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button.terminarCompra{
+    margin-top: 10px;
+}
