@@ -11,9 +11,7 @@ Main dependences:
 - [React JS](https://reactjs.org/)
 - [Bootstrap React](https://react-bootstrap.github.io/)
 - [Font Awesome Icon](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react)
-- [Firebase](https://firebase.google.com/)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
-- [Sweet Alert 2](https://sweetalert2.github.io/)
 
 # Launch
 
